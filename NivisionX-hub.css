@@ -1,0 +1,127 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.class1 {
+  text-align: center;
+  color: rgb(15, 15, 15);
+}
+.class2 {
+  text-align: center;
+  color: rgb(7, 7, 7);
+}
+.div2 {
+  background-color: rgb(46, 46, 46);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 2px 0;
+}
+.div3,
+.div4,
+.div5 {
+  margin: 0 50px;
+}
+.Games {
+  color: rgb(245, 18, 18);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-weight: bold;
+  align-items: flex-start;
+}
+.Videos {
+  color: rgb(245, 18, 18);
+  display: inline-block;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+.Design {
+  color: rgb(245, 18, 18);
+  display: inline-block;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+.photo {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.my_photo {
+  width: 250px;
+  height: auto;
+  border-radius: 10px;
+}
+.about_me {
+  flex: 1;
+}
+.social_link {
+  background-color: rgb(136, 134, 134);
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.Social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.links {
+  color: aliceblue;
+  text-align: center;
+  gap: 5px;
+  padding: 5px;
+}
+.youtube {
+  color: rgb(255, 0, 0);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.facebook {
+  color: rgb(36, 83, 238);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.shutterstock {
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.dreamstime {
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.redbubble {
+  color: rgb(255, 0, 0);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.rumble {
+  color: rgb(10, 231, 28);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.tiktok {
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+}
