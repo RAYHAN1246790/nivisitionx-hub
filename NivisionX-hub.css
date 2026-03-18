@@ -14,17 +14,19 @@ h1 {
   color: rgb(7, 7, 7);
 }
 .div2 {
-  background-color: rgb(46, 46, 46);
+  background-color: rgb(173, 173, 173);
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding: 2px 0;
 }
-.div3,
-.div4,
+.div3 {
+  margin-right: auto;
+  margin-left: auto;
+}
 .div5 {
-  margin: 0 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .Games {
   color: rgb(245, 18, 18);
