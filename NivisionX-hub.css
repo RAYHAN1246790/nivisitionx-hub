@@ -59,10 +59,20 @@ h1 {
   flex-wrap: wrap;
   padding: 20px;
 }
+.photo_game {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px;
+}
 .my_photo {
   width: 200px;
   height: auto;
   border-radius: 10px;
+}
+.about_game {
+  flex: 1;
 }
 .about_me {
   flex: 1;
