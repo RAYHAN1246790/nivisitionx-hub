@@ -29,7 +29,7 @@ h1 {
   margin-right: auto;
 }
 .Games {
-  color: rgb(245, 18, 18);
+  color: rgb(0, 0, 0);
   display: inline-block;
   margin-left: 10px;
   margin-right: 20px;
@@ -37,7 +37,7 @@ h1 {
   align-items: flex-start;
 }
 .Videos {
-  color: rgb(245, 18, 18);
+  color: rgb(0, 0, 0);
   display: inline-block;
   align-items: center;
   margin-left: 10px;
@@ -45,7 +45,7 @@ h1 {
   font-weight: bold;
 }
 .Design {
-  color: rgb(245, 18, 18);
+  color: rgb(0, 0, 0);
   display: inline-block;
   align-items: center;
   margin-left: 10px;
@@ -68,6 +68,11 @@ h1 {
 }
 .my_photo {
   width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
+.game_photo {
+  width: 150px;
   height: auto;
   border-radius: 10px;
 }
