@@ -59,6 +59,14 @@ h1 {
   flex-wrap: wrap;
   padding: 20px;
 }
+.my_photo {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
+.about_me {
+  flex: 1;
+}
 .photo_game {
   display: flex;
   flex-direction: column;
@@ -75,11 +83,6 @@ h1 {
   max-width: 400px;
   height: auto;
 }
-.my_photo {
-  width: 200px;
-  height: auto;
-  border-radius: 10px;
-}
 .game_photo {
   display: flex;
   flex-wrap: nowrap;
@@ -91,9 +94,34 @@ h1 {
 .about_game {
   flex: 2;
 }
-.about_me {
-  flex: 1;
+.photo_Model {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  margin-top: 10px;
 }
+.Model_pic {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: flex-start;
+  max-width: 400px;
+  height: auto;
+}
+.Model_photo {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 15px;
+  justify-content: center;
+  border-radius: 10px;
+}
+.about_Model {
+  flex: 2;
+}
+
 .social_link {
   background-color: rgb(136, 134, 134);
   justify-content: center;
@@ -138,12 +166,6 @@ h1 {
 }
 .redbubble {
   color: rgb(255, 0, 0);
-  display: inline-block;
-  margin-left: 10px;
-  margin-right: 20px;
-}
-.rumble {
-  color: rgb(10, 231, 28);
   display: inline-block;
   margin-left: 10px;
   margin-right: 20px;
