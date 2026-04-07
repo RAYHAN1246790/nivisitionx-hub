@@ -80,7 +80,7 @@ h1 {
   flex-direction: row;
   gap: 10px;
   justify-content: flex-start;
-  max-width: 400px;
+  max-width: 50%;
   height: auto;
 }
 .game_photo {
@@ -107,7 +107,7 @@ h1 {
   flex-direction: row;
   gap: 10px;
   justify-content: flex-start;
-  max-width: 400px;
+  max-width: 50%;
   height: auto;
 }
 .Model_photo {
