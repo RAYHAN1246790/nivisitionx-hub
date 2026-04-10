@@ -20,6 +20,10 @@ h1 {
   align-items: center;
   flex-wrap: wrap;
 }
+.div2-5 {
+  margin-right: auto;
+  margin-left: auto;
+}
 .div3 {
   margin-right: auto;
   margin-left: auto;
@@ -27,6 +31,18 @@ h1 {
 .div5 {
   margin-left: auto;
   margin-right: auto;
+}
+.div6 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.home {
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-weight: bold;
+  align-items: flex-start;
 }
 .Games {
   color: rgb(0, 0, 0);
@@ -45,6 +61,14 @@ h1 {
   font-weight: bold;
 }
 .Design {
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+.CODE {
   color: rgb(0, 0, 0);
   display: inline-block;
   align-items: center;
