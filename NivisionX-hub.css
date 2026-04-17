@@ -52,14 +52,6 @@ h1 {
   font-weight: bold;
   align-items: flex-start;
 }
-.Videos {
-  color: rgb(0, 0, 0);
-  display: inline-block;
-  align-items: center;
-  margin-left: 10px;
-  margin-right: 20px;
-  font-weight: bold;
-}
 .Design {
   color: rgb(0, 0, 0);
   display: inline-block;
